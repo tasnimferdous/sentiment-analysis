@@ -1,4 +1,4 @@
-"# sentiment-analysis"\
+"**# Sentiment-analysis**"\
 "# This project has a single endpoint at '/analyze'"\
 "# The views.py, urls.py and serializers.py file are in api folder of sentiment app."\
 "# Pretrained_models.py in sentiment app containes functions for pretrained models to analyze sentiment."\
